@@ -4,7 +4,7 @@ compatibility_flags = ["nodejs_compat"]
 
 # 生产环境配置
 [env.production]
-name = "katelyatv"
+name = "RoiseTV"
 
 # 生产环境 D1 数据库配置
 [[env.production.d1_databases]]
